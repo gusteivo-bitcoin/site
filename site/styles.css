@@ -1,0 +1,17 @@
+.cabecalho{
+    background-color: rgb(92, 89, 89);
+    width: 100%;
+    height: 15vh;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-size: 2rem;
+    color:rgb(128, 22, 150);
+    border-radius: 15px;
+    border: 2px solid black;
+    box-shadow: 10px 10px 5px 0px rgba(155, 9, 143, 0.75);
+}
+img{
+    width: 350px;
+    height: 350px;
+}
